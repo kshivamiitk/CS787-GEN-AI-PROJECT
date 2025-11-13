@@ -17,3 +17,5 @@ There you are supposed to fill the
 3. Alpha (confidence)
  
 Wait for few seconds and it will show you the best investment strategy along with expected profit percentage
+
+GITHUB REPO LINK : https://github.com/kshivamiitk/CS787-GEN-AI-PROJECT
